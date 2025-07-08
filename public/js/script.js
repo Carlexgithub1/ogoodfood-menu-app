@@ -29,7 +29,9 @@ function getMenuHtmlPage(image) {
     const page = document.createElement('img');
     page.id = "page" + image.id;
     page.src = image.url;
+    page.alt = "Image presentant le menu de o'good food yaounde"
     page.classList.add('menu-page');
+    page.loading = 'lazy';
 
     return page;
 }
