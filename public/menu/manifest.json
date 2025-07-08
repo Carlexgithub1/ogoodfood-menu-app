@@ -1,0 +1,13 @@
+{
+    "path": "/menu/",
+    "images":[
+        {"id": 1, "url": "/menu/image1.jpg"},
+        {"id": 2, "url": "/menu/image2.jpg"},
+        {"id": 3, "url": "/menu/image3.jpg"},
+        {"id": 4, "url": "/menu/image4.jpg"},
+        {"id": 5, "url": "/menu/image5.jpg"},
+        {"id": 6, "url": "/menu/image6.jpg"},
+        {"id": 7, "url": "/menu/image7.jpg"},
+        {"id": 8, "url": "/menu/image8.jpg"}
+    ]
+}
